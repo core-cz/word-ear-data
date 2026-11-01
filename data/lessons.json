@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "format": "lesson tracks, NOT per-word audio",
+  "source": "Super Minds class CDs (Baidu share)",
+  "count": 1,
+  "tracks": [
+    {
+      "folder": "superminds-1-cd3",
+      "folder_title": "美版 super minds 1级 class cd 3",
+      "track": "03 曲目 3",
+      "file": "audio/lessons/superminds-1-cd3/03.mp3",
+      "duration_s": 54.9,
+      "bytes": 542576
+    }
+  ]
+}
